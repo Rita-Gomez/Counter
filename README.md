@@ -3,7 +3,7 @@
 # COUNTER 
 
 
-_Creación de un contador que tambiéntome en cuenta números negativos_
+_Creación de un contador que también tome en cuenta números negativos_
 
 
 
